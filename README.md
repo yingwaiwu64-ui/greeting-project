@@ -1,6 +1,6 @@
 # Greeting project
 
-A simple Python project that demonstraets greeting functionality.
+A simple Python project that demonstrats greeting functionality.
 
 ## Usage
 
